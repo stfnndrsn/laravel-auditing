@@ -13,7 +13,7 @@ class AuditingTest extends PHPUnit_Framework_TestCase
 
     public function tearUp()
     {
-
+        
     }
 
     public function testItGetsCustomMessages()
